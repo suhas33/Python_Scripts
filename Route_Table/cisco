@@ -1,0 +1,1 @@
+sh ip cef  | ex attached|receive|drop|Prefix

@@ -1,0 +1,1 @@
+sh ip mfib | exclude Ether|Vlan|Cpu|Acti
